@@ -1,9 +1,9 @@
 # IS_Project
 
 ## Authors
-- 
--
--
+- Suhail Lala
+- Kathryn Mitchell
+- Komla Nyagbe
 
 ## Using the Program
 - The program comes with a console named "schema" for easy use. Simply run the program and the command line will appear. 
