@@ -21,11 +21,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="JupyterTrust" id="6dca6550-27ce-4678-92db-15cd82acfe10">
-    <option name="files">
-      <option value="Main.ipynb" />
-    </option>
-  </component>
+  <component name="JupyterTrust" id="6dca6550-27ce-4678-92db-15cd82acfe10" />
   <component name="ProjectId" id="1kcpHyNfTWSYXu5XXYoPvoQl8ID" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -62,6 +58,14 @@
       <workItem from="1606610687665" duration="5776000" />
       <workItem from="1606623499111" duration="361000" />
       <workItem from="1606623871532" duration="1601000" />
+      <workItem from="1606680079277" duration="18000" />
+      <workItem from="1607050455819" duration="964000" />
+      <workItem from="1607052037053" duration="5874000" />
+      <workItem from="1607116505033" duration="745000" />
+      <workItem from="1607121894234" duration="30000" />
+      <workItem from="1607122169624" duration="163000" />
+      <workItem from="1607122662796" duration="4270000" />
+      <workItem from="1607132128352" duration="3743000" />
     </task>
     <servers />
   </component>
@@ -69,37 +73,48 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1493" height="261" key="GridCell.Tab.0.bottom" timestamp="1606616469067">
+    <state width="1493" height="261" key="GridCell.Tab.0.bottom" timestamp="1607058274599">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1606616469067" />
-    <state width="1493" height="261" key="GridCell.Tab.0.center" timestamp="1606616469067">
+    <state width="1493" height="261" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1607058274599" />
+    <state width="1493" height="261" key="GridCell.Tab.0.center" timestamp="1607058274599">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1606616469067" />
-    <state width="1493" height="261" key="GridCell.Tab.0.left" timestamp="1606616469067">
+    <state width="1493" height="261" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1607058274599" />
+    <state width="1493" height="261" key="GridCell.Tab.0.left" timestamp="1607058274599">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1606616469067" />
-    <state width="1493" height="261" key="GridCell.Tab.0.right" timestamp="1606616469067">
+    <state width="1493" height="261" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1607058274599" />
+    <state width="1493" height="261" key="GridCell.Tab.0.right" timestamp="1607058274599">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1606616469067" />
-    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1606616469067">
+    <state width="1493" height="261" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1607058274599" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1607058274599">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1606616469067" />
-    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1606616469067">
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1607058274599" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1607058274599">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1606616469067" />
-    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1606616469067">
+    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1607058274599" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1607058274599">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1606616469067" />
-    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1606616469067">
+    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1607058274599" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1607058274599">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1606616469067" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1607058274599" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
+          <url>notebook://D:/Dropbox/MSCS/Intelligent Systems/Project/IS_Project/6150_project_Polish_infix_prefix.ipynb</url>
+          <line>55</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
