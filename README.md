@@ -20,8 +20,8 @@ Documented commands (type help <topic>):
 example  exit  help  schema
 ```
 ```
-(Cmd) help exit
-Exit the command shell
+(Cmd) help example
+Display input and output of an example schema.
 ```
 - To determine if a given schema is a tautology, run `schema(<input>)`. For example, running `schema('S1,A,→→A→BC→→AB→AC,S2')` will return:
 ```
