@@ -23,14 +23,15 @@ exit  help  formula
 (Cmd) help exit
 Exit the command shell
 ```
-- To determine if a given formula is a tautology, run `formula(<input>)`. For example, running `formula('S1,A,(A->(B->C))->((A->B)->(A->C)),S2')` will return:
+- To determine if a given formula is a tautology, run `formula <input>`. For example, running `formula S1,~A,~(A -> C) -> (~(C v D) -> (A ^ C)), S2` will return:
 ```
-('S1,A,A,A,~A,C,S2') : Fundamental
-('S1,A,A,~B,~A,C,S2') : Fundamental
-('S1,A,B,A,~A,C,S2') : Fundamental
-('S1,A,B,~B,~A,C,S2') : Fundamental
-('S1,A,~C,A,~A,C,S2') : Fundamental
-('S1,A,~C,~B,~A,C,S2') : Fundamental
-Given formula is a Tautology
+S1,~A,~A,C,C,D,A,S2 : Fundamental
+S1,~A,~A,C,C,D,C,S2 : Not Fundamental
+Given formula is not a Tautology
 ```
 - To exit the program, type `exit`.
+
+### In this program:
+- Atomic statements are A, B, C, D and E.
+- Symbols are (~, ->, v, ^)
+- S1, S2, S3 etc. denote indecomposable formulas
