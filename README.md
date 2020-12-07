@@ -1,5 +1,5 @@
 # IS_Project
-#todo: add project description
+This program uses the RS-Method to determine if a given propositional calculus formula is a tautology. Two types of schemas are tested: S1/S2 and S1/(S2;S3), where S1 is given as a premise and S2,S3 are given as conclusions. For each inputted formula, the program returns yes/no output.
 
 ## Authors
 - Suhail Lala
